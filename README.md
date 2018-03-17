@@ -53,7 +53,7 @@ Realizar la operación 3 + 5
 Diseño
 ------
 
-![Esquema del sistema](schematic.eps)
+![Esquema del sistema](schematic.svg)
 
 ### Unidad de datos
 
