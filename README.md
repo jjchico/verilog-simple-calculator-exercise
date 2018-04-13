@@ -84,3 +84,18 @@ Operaciones de la ALU
 * `system.v`: conexión de la calculadora con módulo de 7 segmentos.
 * `seg7_4d_ctrl.v`: controlador de visor de 7 segmentos.
 * `boards/`: archivos para implementación en placas de desarrollo.
+
+LICENCIA
+--------
+
+Este proyecto y todos los archivos que cotiene son software libre salvo que se
+indique expresamente lo contrario: puede redistribuirlo y/o modificarlo bajo los
+términos de la Licencia General Pública de GNU publicada por la Fundación de
+Software Libre, tanto su versión 3 como, opcionalmente, cualquier otra versión
+posterior. Véase <http://www.gnu.org/licenses/>.
+
+This project and all the files included is free software unless otherwise
+stated: you can redistribute it and/or modify it under the terms of the GNU
+General Public License as published by the Free Software Foundation, either
+version 3 of the License, or (at your option) any later version. See
+<http://www.gnu.org/licenses/>.
