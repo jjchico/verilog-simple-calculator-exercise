@@ -1,6 +1,8 @@
 Calculadora simple implementable en Verilog
 ===========================================
 
+**Repositorio trasladado a: https://gitlab.com/jjchico-edc/verilog-simple-calculator-exercise**
+
 Especificaciones
 ----------------
 
